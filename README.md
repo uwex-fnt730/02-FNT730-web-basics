@@ -31,6 +31,7 @@ In this assignment you will be working through a modified version of Mozilla Dev
     * Second paragraph should describe what you are interested in learning about FinTech technologies this semester.
     * The third paragraph should be: "Please use the 'Change User' button to change the user and use the 'Add Value' button to add a value to the number displayed below."
     * Add the button "Add Value" and write the code to get a value from the user and add it to a variable called `currentVal`. Display `currentVal` using the same style as the title on the page, centered, and below the buttons. The initial value of `currentVal` should be 0, but it should accumulate each time the "Add Value" button is pressed. So, the initial value will be 0, if you then click "Add Value" and enter 5, then it should be 5. If you then click "Add Value" again and enter 7, it should display 12.
+
 ***-----------------------------***
 
 

@@ -36,5 +36,4 @@ In this assignment you will be working through a modified version of Mozilla Dev
 ***-----------------------------***
 
 
-* [Web Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API) -- REQUIRED - How, when, and where data is stored on the web is critical for understanding and building websites. You will also need to complete the activities within this section of the tutorial. You will find a copy of these websites in this repo that you can play with. Use the developer tools to observe how the web storage changes.
-* [How the Web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works) -- REQUIRED - again, follow all the links if you haven't explored them already.
+* [Client-side web APIs](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Client-side_APIs) -- REQUIRED - How, when, and where data is stored on the web and how websites exchange data is critical in FinTech applications. This module from Mozilla will give you a good overview of how this can be done in JavaScript. We will work with APIs again later during the AWS modules. This module may require some additional background in JavaScript. Click on the links as needed.
